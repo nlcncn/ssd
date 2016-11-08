@@ -1,4 +1,4 @@
-package service;
+package test;
 
 public interface IndexBO {
 	public String getHelloStr();
